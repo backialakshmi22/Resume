@@ -1,0 +1,21 @@
+dt{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    margin: lem 0;
+}
+body{
+    width: 750px;
+    height: 1400px;
+    margin: 0 auto;
+}
+dd{
+   padding-bottom: 15px;
+   padding-top: 8px;
+}
+h1{
+    text-align: center;
+}
